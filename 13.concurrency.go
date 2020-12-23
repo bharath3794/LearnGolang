@@ -14,7 +14,7 @@ type page struct{
 }
 
 func main(){
-	links := []string{"https://sanet.st/", "https://bitly.com/", "https://www.google.com/", 
+	links := []string{"https://www.microsoft.com", "https://bitly.com/", "https://www.google.com/", 
 	"https://www.youtube.com/", "https://ucf.edu/", "https://my.ucf.edu/", "https://www.amazon.com/"}
 	fmt.Println("--------------With out using go routine--------------")
 	start := time.Now()
